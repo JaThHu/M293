@@ -19,7 +19,8 @@ Durch dieses Projekt haben wir wertvolle Erfahrungen in der Gestaltung einer ben
 
 <img width="500" alt="Screenshot 2023-06-29 105255" src="https://github.com/JaThHu/M293/assets/111045598/83fd54f3-ab7c-4363-8ae5-55d3101f691a">
 
-* Ein gut dokumentierter Code-Fetzen
+<img width="923" alt="Screenshot_Lernbericht_LA1600" src="https://github.com/JaThHu/M293/assets/111045598/29415d5a-cbf7-444d-a098-d1d1602eda6e">
+
 
 
 ## Verifikation

@@ -16,6 +16,7 @@ Durch dieses Projekt habe ich gelernt, wie wichtig es ist, eine gut strukturiert
 ## Beschreibung
 
 Durch dieses Projekt haben wir wertvolle Erfahrungen in der Gestaltung einer benutzerfreundlichen und ästhetisch ansprechenden Benutzeroberfläche gesammelt. Wir haben erkannt, wie wichtig es ist, eine klare und intuitive Navigation zu schaffen. Dabei haben wir gelernt, wie man Elemente wie Menüs, Kategorien und Filterfunktionen effektiv strukturiert, um die Suche nach bestimmten Schuhen zu erleichtern.
+
 <img width="500" alt="Screenshot 2023-06-29 105255" src="https://github.com/JaThHu/M293/assets/111045598/83fd54f3-ab7c-4363-8ae5-55d3101f691a">
 
 * Ein gut dokumentierter Code-Fetzen
